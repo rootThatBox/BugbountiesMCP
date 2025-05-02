@@ -1,21 +1,32 @@
 # BugbountiesMCP
 
-Welcome to the BugbountiesMCP repository! This repository contains resources and information related to bug bounties and security research.
+A comprehensive list of Model Context Protocol (MCP) servers that can be used for bug bounties, penetration testing, and information security research.
 
-## About
+## Purpose
 
-This repository is designed to share knowledge, tools, and methodologies for bug bounty hunting and security testing.
+This repository serves as a central resource for security professionals looking to utilize MCP servers in their bug bounty hunting, penetration testing, and overall information security work. MCP servers can be powerful tools for security research when used ethically and responsibly.
 
-## Contents
+## MCP Servers List
 
-- Tools and scripts for security testing
-- Documentation on common vulnerabilities
-- Methodologies for effective bug hunting
-- Resources for learning security concepts
+| Server Name | URL | Features | Security Use Cases |
+|-------------|-----|----------|-------------------|
+| Example MCP | https://example.com/mcp | Code analysis, vulnerability detection | Finding code vulnerabilities, analyzing security patterns |
+| Security MCP | https://security-mcp.example.com | Threat modeling, exploit generation | Penetration testing assistance, vulnerability research |
 
-## Contributing
+## How to Contribute
 
-Contributions are welcome! Feel free to submit pull requests or open issues to improve this repository.
+If you know of any additional MCP servers that are useful for security research:
+1. Fork this repository
+2. Add the server details to the list
+3. Submit a pull request with a brief description of the server's capabilities
+
+## Ethical Guidelines
+
+All servers listed in this repository should only be used for legitimate security research, with proper authorization, and in compliance with applicable laws and regulations. This repository does not endorse using these tools for any malicious or unauthorized activities.
+
+## Disclaimer
+
+The maintainers of this repository are not responsible for how these tools are used. Always ensure you have proper authorization before conducting any security testing.
 
 ## License
 
