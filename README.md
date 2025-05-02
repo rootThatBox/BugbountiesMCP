@@ -10,6 +10,8 @@ This repository serves as a central resource for security professionals looking 
 
 | Server Name | URL | Features | Security Use Cases |
 |-------------|-----|----------|-------------------|
+| Browser MCP | https://browsermcp.io | Browser-based message control capabilities | Web application security testing, client-side vulnerability research |
+| Burp MCP Server | https://portswigger.net/bappstore/9952290f04ed4f628e624d0aa9dccebc | Extension for Burp Suite, message control protocol functionality | Enhanced web security testing, API security assessment, request manipulation |
 | Example MCP | https://example.com/mcp | Code analysis, vulnerability detection | Finding code vulnerabilities, analyzing security patterns |
 | Security MCP | https://security-mcp.example.com | Threat modeling, exploit generation | Penetration testing assistance, vulnerability research |
 
